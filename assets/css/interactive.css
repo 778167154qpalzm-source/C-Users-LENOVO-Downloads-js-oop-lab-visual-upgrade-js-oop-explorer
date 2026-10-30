@@ -1,0 +1,1 @@
+.visual-shape-card:focus-within,.visual-object-card:focus-within{outline:2px solid #8b78ed;outline-offset:2px}.run-btn:active,.reset-btn:active{transform:translateY(1px) scale(.99)}.visual-stage [data-active="true"]{border-color:#7962e5;box-shadow:0 0 0 3px #7962e51a}.visual-metric{transition:background .2s ease,transform .2s ease}.visual-metric:hover{transform:translateY(-2px)}
